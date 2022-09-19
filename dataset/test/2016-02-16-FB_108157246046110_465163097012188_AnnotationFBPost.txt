@@ -1,0 +1,6 @@
+﻿<activity_name_LxKyMA7eXL>【2016台北國際自行車展覽X Bryton】</activity_name_LxKyMA7eXL>
+一年一度盛大的自行車展覽，即將在<activity_date_start_LxKyMA7eXL>3月2日</activity_date_start_LxKyMA7eXL>拉開序幕，Bryton今年也會參與此盛會，並會在展場發表我們的最新產品!! 至於新產品有什麼功能，從圖片中可以略之一二! 對新產品有興趣的車友們，非常歡迎你們來展場找我們!
+
+展覽時間: <activity_date_start_LxKyMA7eXL>2016/3/2</activity_date_start_LxKyMA7eXL>-<activity_date_end_LxKyMA7eXL>3/5</activity_date_end_LxKyMA7eXL>
+地點:<activity_loc_LxKyMA7eXL>台北南港展覽館</activity_loc_LxKyMA7eXL>1館 4樓
+攤位: 4F-MO632

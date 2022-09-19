@@ -1,0 +1,9 @@
+﻿童話中，
+總是把公主抓到城堡關起來的噴火龍就在<activity_name_LxKyMA7eXL>白堊紀恐龍特展 地球大冒險</activity_name_LxKyMA7eXL>，
+記得，來參觀時停留久一點，每項展品可是都有很多玄機在裡面的喔！
+
+#<activity_loc_LxKyMA7eXL>台中世貿</activity_loc_LxKyMA7eXL>
+#展出至<activity_date_end_LxKyMA7eXL>3月6日</activity_date_end_LxKyMA7eXL>
+#正宗日本空運來台
+#白堊紀恐龍特展地球大冒險
+#今年寒假必看

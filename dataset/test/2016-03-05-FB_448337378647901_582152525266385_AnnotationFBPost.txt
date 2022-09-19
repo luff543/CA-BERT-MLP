@@ -1,0 +1,15 @@
+﻿<activity_name_LxKyMA7eXL>2016 台灣國際遊艇展</activity_name_LxKyMA7eXL>
+
+<activity_name_LxKyMA7eXL>「台灣國際遊艇展」</activity_name_LxKyMA7eXL>為國內遊艇及相關設備及海洋產業唯一專業展覽，同時也是亞洲最大室內船展。
+
+為呈現台灣身為「遊艇王國」的最佳形象，本展將展出涵蓋遊艇及相關產業各面向的優質產品及專業服務，預計將成為國際買主在亞洲地區進行採購的最佳交易平台。
+
+展覽時間 :
+<activity_date_start_LxKyMA7eXL>2016年3月10日</activity_date_start_LxKyMA7eXL>(四)至<activity_date_end_LxKyMA7eXL>13日</activity_date_end_LxKyMA7eXL>(日)，展期共4天
+*3月10日(四) 10:00-19:00: 為專業買主日, 未開放一般民眾參觀
+一般民眾可參觀日:
+3月11日(五) 10:00-19:00 
+3月12日(六) 10:00-20:00 
+3月13日(日) 10:00-17:00
+展覽地點 : <activity_loc_LxKyMA7eXL>高雄展覽館</activity_loc_LxKyMA7eXL> (<activity_address_LxKyMA7eXL>高雄市前鎮區成功二路39號</activity_address_LxKyMA7eXL>)
+活動網站 : http://www.boatshow.tw/zh_TW/index.html

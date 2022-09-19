@@ -1,0 +1,4 @@
+﻿<activity_name_LxKyMA7eXL>「2016醉石創藝協會會員聯展」</activity_name_LxKyMA7eXL><activity_date_start_LxKyMA7eXL>2/20</activity_date_start_LxKyMA7eXL><activity_loc_LxKyMA7eXL>港區藝術中心</activity_loc_LxKyMA7eXL>登場
+自<activity_date_start_LxKyMA7eXL>2月20日</activity_date_start_LxKyMA7eXL>（週六）起至<activity_date_end_LxKyMA7eXL>3月6日</activity_date_end_LxKyMA7eXL>（週日）止在臺中市港區藝術中心掬月廳及中央畫廊辦理<activity_name_LxKyMA7eXL>「2016醉石創藝協會會員聯展」</activity_name_LxKyMA7eXL>，展出石雕、木雕等80餘組立體創作，展覽期間每週六、日，協會會員皆於展場為民眾導覽解說，歡迎各位市民朋友前往觀賞與創作者交流。
+展期：<activity_date_start_LxKyMA7eXL>2月20日</activity_date_start_LxKyMA7eXL>(星期日)至<activity_date_end_LxKyMA7eXL>3月6日</activity_date_end_LxKyMA7eXL>(星期日)                
+展出地點：<activity_loc_LxKyMA7eXL>掬月廳</activity_loc_LxKyMA7eXL>、<activity_loc_LxKyMA7eXL>中央畫廊</activity_loc_LxKyMA7eXL>

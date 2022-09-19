@@ -1,0 +1,4 @@
+﻿<activity_name_LxKyMA7eXL>全國校園圖書特展</activity_name_LxKyMA7eXL><activity_name_LxKyMA7eXL>【耕讀之旅】</activity_name_LxKyMA7eXL>
+展出時間：<activity_date_start_LxKyMA7eXL>105年3月21日</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>25日</activity_date_end_LxKyMA7eXL>
+每日上午0800時至下午1530時
+地點：<activity_loc_LxKyMA7eXL>協志高職　餐廳3F</activity_loc_LxKyMA7eXL>

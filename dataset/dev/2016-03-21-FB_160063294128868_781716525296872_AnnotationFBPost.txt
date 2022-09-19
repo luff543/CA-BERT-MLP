@@ -1,0 +1,14 @@
+﻿比賽預告
+ <activity_name_LxKyMA7eXL>高雄市第一屆議長盃全國圍棋錦標賽</activity_name_LxKyMA7eXL>比賽辦法
+
+1.比賽日期：<activity_date_start_LxKyMA7eXL>105年4月3日</activity_date_start_LxKyMA7eXL>(星期日)
+   上午09：00報到，09：30開幕，10：00開賽。
+2.比賽地點：<activity_loc_LxKyMA7eXL>高雄市立社會教育館</activity_loc_LxKyMA7eXL>
+〈<activity_address_LxKyMA7eXL>小港區學府路115號</activity_address_LxKyMA7eXL>－捷運R3站下車2號出口出站，左轉立群路步行約7分鐘）
+3.比賽時間：上午09：00報到，09：30開幕，10：00開賽。
+#9：30以前未完成報到手續或開幕時經裁判點名不到且未在座位上者，取消參賽資格。
+4.報名費：段位組600元，級位組500元
+5.比賽辦法：段位組及甲組比賽五盤三敗淘汰，乙組以下須下完六盤。
+
+ 
+更多

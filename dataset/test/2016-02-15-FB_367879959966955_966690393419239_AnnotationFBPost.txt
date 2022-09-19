@@ -1,0 +1,26 @@
+﻿世新注意劍玉隊
+<activity_name_LxKyMA7eXL>【劍玉】影像聯展</activity_name_LxKyMA7eXL>
+
+劍玉（けん玉、Kendama）
+起源於法國
+是一種同時兼具休閒與競技的運動
+近年來在世界掀起流行，台灣也包含其中
+
+劍玉對我們來說不僅是休閒
+更是一種精神象徵與情感聯結的媒介
+我們希望能藉由影像創作，傳達出劍玉的樂趣與文化內涵
+讓觀者能透過展覽，一同體會劍玉的魅力！
+
+｜展覽期間｜
+<activity_date_start_LxKyMA7eXL>2/18</activity_date_start_LxKyMA7eXL>-2/19 13:00-21:00
+2/20-2/21 11:00-21:00
+2/22 休館
+<activity_date_end_LxKyMA7eXL>2/23</activity_date_end_LxKyMA7eXL> 13:00-17:00
+
+｜展覽地點｜
+<activity_loc_LxKyMA7eXL>瞧夫51區藝文空間</activity_loc_LxKyMA7eXL>
+<activity_address_LxKyMA7eXL>台北市中正區牯嶺街95巷51號</activity_address_LxKyMA7eXL>
+（古亭捷運站2號出口，步行三分鐘）
+
+｜參展人｜
+劉家寧 胡子睿 楊文渝 郭孝慈

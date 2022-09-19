@@ -1,0 +1,4 @@
+﻿<activity_name_LxKyMA7eXL>黃金歲月-駐館樂活創意家成果暨黃金博物館典藏品聯展」</activity_name_LxKyMA7eXL>
+ 展覽時間：<activity_date_start_LxKyMA7eXL>105年2月26日</activity_date_start_LxKyMA7eXL>至<activity_date_end_LxKyMA7eXL>5月29日</activity_date_end_LxKyMA7eXL>
+ 展覽地點：<activity_loc_LxKyMA7eXL>煉金樓特展室</activity_loc_LxKyMA7eXL>、<activity_loc_LxKyMA7eXL>金水特展室</activity_loc_LxKyMA7eXL>
+展出31件/組本館典藏之傳統黃金藝術製品(例如：耳環、髮簪、手鍊、戒指等)，擴大參觀者貼近欣賞黃金生活之美。

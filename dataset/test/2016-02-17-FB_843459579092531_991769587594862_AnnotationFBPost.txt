@@ -1,0 +1,5 @@
+﻿<activity_name_LxKyMA7eXL>台北國際書展</activity_name_LxKyMA7eXL>開跑囉！
+展覽地點：<activity_loc_LxKyMA7eXL>世貿一館</activity_loc_LxKyMA7eXL>、<activity_loc_LxKyMA7eXL>世貿三館</activity_loc_LxKyMA7eXL>
+展覽日期：<activity_date_start_LxKyMA7eXL>2016/2/16</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>2/21</activity_date_end_LxKyMA7eXL> 
+時報出版也安排了許多演講，歡迎大家參加，詳請請參閱以下網址：
+http://www.readingtimes.com.tw/timeshtml/promote/2016tibe/page2.html

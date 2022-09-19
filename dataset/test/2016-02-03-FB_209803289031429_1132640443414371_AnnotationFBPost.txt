@@ -1,0 +1,5 @@
+﻿<activity_name_LxKyMA7eXL>【學生展覽】「瑰麗風華」－李仁杰工筆花鳥人物創作展</activity_name_LxKyMA7eXL>
+
+展覽時間:<activity_date_start_LxKyMA7eXL>2016/02/17</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>2016/02/28</activity_date_end_LxKyMA7eXL>
+展覽地點:<activity_loc_LxKyMA7eXL>中壢藝術館第二展覽室</activity_loc_LxKyMA7eXL>
+展場地址:<activity_address_LxKyMA7eXL>桃園區中壢市中美路16號</activity_address_LxKyMA7eXL>

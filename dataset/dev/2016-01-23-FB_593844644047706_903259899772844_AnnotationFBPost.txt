@@ -1,0 +1,5 @@
+﻿<activity_name_LxKyMA7eXL>歡樂購嘉年華 </activity_name_LxKyMA7eXL> 
+明天(1/23)豐原廟東復興商圈將舉辦<activity_name_LxKyMA7eXL>「歡樂購嘉年華」</activity_name_LxKyMA7eXL>，不但有購物優惠還有摸彩活動喔~只要在商圈會員店家消費滿200元，就有機會把iPhone6s、50吋液晶電視、平板電腦等大獎帶回家！
+
+活動時間：<activity_date_start_LxKyMA7eXL>105/1/23</activity_date_start_LxKyMA7eXL> 星期六 19:00~21:00
+活動地點：<activity_address_LxKyMA7eXL>台中市豐原區復興路99號前</activity_address_LxKyMA7eXL>(<activity_loc_LxKyMA7eXL>豐原廟東復興商圈</activity_loc_LxKyMA7eXL>)

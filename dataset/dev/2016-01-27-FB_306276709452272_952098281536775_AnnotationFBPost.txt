@@ -1,0 +1,9 @@
+﻿【文化里長伯】史前館<activity_name_LxKyMA7eXL>『尋找東方金銀島』特展</activity_name_LxKyMA7eXL> 開展嘍！
+
+<activity_loc_LxKyMA7eXL>國立臺灣史前文化博物館</activity_loc_LxKyMA7eXL>這次和多個國內外博物館合作，重現大航海時代臺灣和世界交流的風貌，展覽中展出借自日本、德國、法國、荷蘭及奧地利等國以及國內難得一見的收藏品共120多件，讓大家可以藉著這些文物，遙想當時的情況。
+
+史前館更於春節期間推出淘沙金體驗活動，歡迎民眾一同來走進歷史、尋找金礦！
+
+展出時間：<activity_date_start_LxKyMA7eXL>01/26</activity_date_start_LxKyMA7eXL>-<activity_date_end_LxKyMA7eXL>12/18</activity_date_end_LxKyMA7eXL>
+展出地點：<activity_loc_LxKyMA7eXL>史前館第四特展室</activity_loc_LxKyMA7eXL>(<activity_address_LxKyMA7eXL>臺東市豐田里博物館路1號</activity_address_LxKyMA7eXL>)
+更多詳情請看http://goo.gl/3sgmo4

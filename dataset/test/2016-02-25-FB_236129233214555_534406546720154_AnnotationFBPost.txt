@@ -1,0 +1,6 @@
+﻿<activity_name_LxKyMA7eXL> 歡慶PChome商店街開運滿週年 </activity_name_LxKyMA7eXL>
+  <activity_name_LxKyMA7eXL>回饋VIP 85折活動</activity_name_LxKyMA7eXL> ( 免運 )  
+「PC商店街」與「郵政商城」同步優惠中
+PChome商店街：http://www.pcstore.com.tw/kunxin25420077/
+郵政商城：http://www.postmall.com.tw/a0227/
+活動日期：<activity_date_start_LxKyMA7eXL>105.03.01</activity_date_start_LxKyMA7eXL> 至 <activity_date_end_LxKyMA7eXL>105.03.31</activity_date_end_LxKyMA7eXL> 止。

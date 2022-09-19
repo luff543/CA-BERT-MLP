@@ -1,0 +1,4 @@
+﻿[輔具資訊] <activity_name_LxKyMA7eXL>2016臺灣健康照護輔具大展</activity_name_LxKyMA7eXL> 
+日期：<activity_date_start_LxKyMA7eXL>105.3.25</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>3.27</activity_date_end_LxKyMA7eXL>
+地點：<activity_loc_LxKyMA7eXL>台北花博公園爭豔館</activity_loc_LxKyMA7eXL>
+預先登錄免費參觀喔~活動官網有各式輔具資訊可以先參閱，此外，許多人持續關注的LUXGEN福祉車也有現場展示喔。

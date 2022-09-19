@@ -1,0 +1,5 @@
+﻿<activity_name_LxKyMA7eXL>勤耕藝田--柯耀東八四書畫展</activity_name_LxKyMA7eXL>
+
+展出地點:
+<activity_loc_LxKyMA7eXL>國立彰化生活美學館</activity_loc_LxKyMA7eXL>第一、二展覽室
+展覽時間:<activity_date_start_LxKyMA7eXL>2016/03/31</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>04/24</activity_date_end_LxKyMA7eXL>

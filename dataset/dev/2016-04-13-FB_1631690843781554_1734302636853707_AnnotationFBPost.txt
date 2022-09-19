@@ -1,0 +1,16 @@
+﻿<activity_name_LxKyMA7eXL>玄奘大學101級設計學院畢業展</activity_name_LxKyMA7eXL>
+視覺傳達設計學系 / 藝術與創意設計學系 / 時尚設計學系
+
+| 展覽資訊
+
+<activity_name_LxKyMA7eXL>文化局展</activity_name_LxKyMA7eXL> 4/13-4/24（視傳系 / 藝創系）
+時間_ 9：00～17：00 （星期一休館）
+開幕茶會_<activity_date_start_LxKyMA7eXL> 4/13</activity_date_start_LxKyMA7eXL> 上午11：30
+地點_ <activity_loc_LxKyMA7eXL>新竹市文化局</activity_loc_LxKyMA7eXL>
+地址_ <activity_address_LxKyMA7eXL>新竹市北區東大路二段15巷1號</activity_address_LxKyMA7eXL>
+
+<activity_name_LxKyMA7eXL>新一代設計展</activity_name_LxKyMA7eXL> (視傳系 / 藝創系 / 時尚系)
+活動日期：<activity_date_start_LxKyMA7eXL>5/13</activity_date_start_LxKyMA7eXL>-<activity_date_end_LxKyMA7eXL>16 </activity_date_end_LxKyMA7eXL>上午10：00 - 下午6：00
+
+時尚系 松菸展
+活動日期：5/27-5/29

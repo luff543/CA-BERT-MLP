@@ -1,0 +1,9 @@
+﻿【文化里長伯】<activity_name_LxKyMA7eXL>「倪氏寓言：倪再沁紀念回顧展」</activity_name_LxKyMA7eXL>
+<activity_loc_LxKyMA7eXL>
+國立臺灣美術館</activity_loc_LxKyMA7eXL>為紀念已故倪再沁教授對臺灣藝術界的貢獻，特別在其逝世週年之際舉辦<activity_name_LxKyMA7eXL>「倪氏寓言：倪再沁紀念回顧展」</activity_name_LxKyMA7eXL>。
+
+展區分為「批判諷喻的倪式怪談」、「玩古貫今的倪家筆墨」、「遊戲神通的倪氏美學」和「回首來時的倪杯步履」等四大主題，以全面且多元的展出方式，重現倪再沁豐富一生的藝術生命歷程。
+
+☀展覽日期 |<activity_date_start_LxKyMA7eXL>即日起</activity_date_start_LxKyMA7eXL>至<activity_date_end_LxKyMA7eXL>105年06月12日</activity_date_end_LxKyMA7eXL>止
+☀展出地點 |<activity_loc_LxKyMA7eXL>國美館101展覽室</activity_loc_LxKyMA7eXL>(<activity_address_LxKyMA7eXL>台中市西區五權西路一段2號</activity_address_LxKyMA7eXL>)
+☀更多詳情請看：https://goo.gl/G6G7Te

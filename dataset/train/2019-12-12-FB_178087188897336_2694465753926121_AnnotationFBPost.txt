@@ -1,0 +1,19 @@
+﻿我們開門啦！ 2019 ART KAOHSIUNG 
+ <activity_loc_LxKyMA7eXL>高雄藝術博覽會</activity_loc_LxKyMA7eXL>
+ <activity_loc_LxKyMA7eXL>黎藝術館展房</activity_loc_LxKyMA7eXL>：218... 展出藝術家：
+ 洪莫愁｜駱志豪｜林哲宇
+ 詹邠｜潘羽祐｜曹程凱
+ 林威丞｜<activity_name_LxKyMA7eXL>第十屆壹計畫</activity_name_LxKyMA7eXL> 預展
+<activity_date_start_LxKyMA7eXL> 2019年12月12日</activity_date_start_LxKyMA7eXL> (THU)
+ <activity_date_duration_LxKyMA7eXL>14:00 - 20:00 藏家預展
+ 15:00 - 20:00 貴賓預展
+ 18:00 - 20:00 開幕酒會</activity_date_duration_LxKyMA7eXL>
+ 公眾展期
+ <activity_date_duration_LxKyMA7eXL>2019年12月13日 (FRI) 
+ 11:00 - 19:00
+ 2019年12月14日 (SAT)
+  11:00 - 19:00</activity_date_duration_LxKyMA7eXL>
+ <activity_date_end_LxKyMA7eXL>2019年12月15日 (SUN) 
+ 11:00 - 18:00</activity_date_end_LxKyMA7eXL> 展覽地點
+ <activity_loc_LxKyMA7eXL>城市商旅 高雄真愛館2樓</activity_loc_LxKyMA7eXL>
+ (<activity_address_LxKyMA7eXL>高雄市鹽埕區大義街1號</activity_address_LxKyMA7eXL>) See more

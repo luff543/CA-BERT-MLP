@@ -1,0 +1,9 @@
+﻿<activity_name_LxKyMA7eXL>【教廷展覽】天國的寶藏－教廷文物特展</activity_name_LxKyMA7eXL>
+ 展期：<activity_date_start_LxKyMA7eXL>2016/02/05</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>2016/05/02</activity_date_end_LxKyMA7eXL>
+ 陳列室：展覽區一 105,107
+ 地點：<activity_loc_LxKyMA7eXL>國立故宮博物館</activity_loc_LxKyMA7eXL>
+ （<activity_address_LxKyMA7eXL>台北市士林區至善路二段221號</activity_address_LxKyMA7eXL>）
+ 交通指南：
+ http://www.npm.gov.tw/zh-TW/Article.aspx?sNo=03002158
+ 網址：
+ http://www.npm.gov.tw/zh-TW/Article.aspx?sNo=04006911

@@ -1,0 +1,11 @@
+﻿[活動名額已滿]<activity_name_LxKyMA7eXL>創意設計3D列印體驗講座</activity_name_LxKyMA7eXL>（免費）
+
+課程內容：3D列印基礎概念、軟體與3D印表機操做、3D掃描
+課程對象：本校在籍學生
+課程日期：<activity_date_start_LxKyMA7eXL>105年03月30日</activity_date_start_LxKyMA7eXL>(星期三) 
+課程時間：18:30至21：00
+活動費用：免費(本活動由教育部教學卓越計畫補助) 
+活動地點：<activity_loc_LxKyMA7eXL>創客集</activity_loc_LxKyMA7eXL>（科學館203）
+人數限制：30人
+截止日期：105年3月25日
+報名網址：http://goo.gl/forms/o2tJ5muQON

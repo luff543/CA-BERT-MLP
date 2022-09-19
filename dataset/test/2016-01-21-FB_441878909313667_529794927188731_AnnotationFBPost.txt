@@ -1,0 +1,8 @@
+﻿<activity_name_LxKyMA7eXL>墨海遺珍─劉森福水墨精品展</activity_name_LxKyMA7eXL> 
+  發布日期：2016/1/20  
+  活動地點： <activity_loc_LxKyMA7eXL>梅苑畫廊</activity_loc_LxKyMA7eXL>、<activity_loc_LxKyMA7eXL>琉璃畫廊</activity_loc_LxKyMA7eXL>
+ <activity_address_LxKyMA7eXL>新竹市東大路二段15巷1號 </activity_address_LxKyMA7eXL>
+  活動日期：<activity_date_start_LxKyMA7eXL> 2016/2/17</activity_date_start_LxKyMA7eXL> ~ <activity_date_end_LxKyMA7eXL>2016/2/28 </activity_date_end_LxKyMA7eXL>
+  活動時段： 9:00-12:00 13:00-17:00 
+  發布者： 03-5319756轉241~243 
+  聯絡電話： 視覺藝術科

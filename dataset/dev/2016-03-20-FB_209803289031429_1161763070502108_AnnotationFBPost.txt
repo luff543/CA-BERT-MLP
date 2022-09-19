@@ -1,0 +1,5 @@
+﻿<activity_name_LxKyMA7eXL>【校友展覽】「一曲高山流水」－ 許文融創作展</activity_name_LxKyMA7eXL>
+展覽時間<activity_date_start_LxKyMA7eXL>:2016/03/19</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>2016/05/01</activity_date_end_LxKyMA7eXL>
+開幕茶會:2016/03/19 (六) 14:30
+展覽地點:<activity_loc_LxKyMA7eXL>台中市港區藝術中心 展覽室 A</activity_loc_LxKyMA7eXL>
+展場地址:<activity_address_LxKyMA7eXL>台中市清水區忠貞路21號</activity_address_LxKyMA7eXL>

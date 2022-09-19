@@ -1,0 +1,12 @@
+﻿你留言發line，我發麵包～<activity_name_LxKyMA7eXL>Just book read就是書展</activity_name_LxKyMA7eXL>  活動搶先報！ 
+活動方式：
+3/22凌晨開始，在個人臉書FB或班級line群組公開留言（留言內容需包括Book read 就是書展），就完成任務。書展現場將於10：15分發送號碼牌，完成任務者，請把握機會領取限量號碼牌，就可以換取好吃麵包！
+
+每天限量20名，共三天三個場次60個名額，名額不重復。每天不得重復、代領或代留言，必須本人親往書展現場。為保持食物新鮮與衛生考量，每場次換取時間到當天下午4點截止。
+
+留言範例：Book read 就是書展在高餐大、 Book read 就是書展開始啦！……
+
+書展時間：<activity_date_start_LxKyMA7eXL>3/22</activity_date_start_LxKyMA7eXL>（二）～<activity_date_end_LxKyMA7eXL>3/24</activity_date_end_LxKyMA7eXL>（四）早上9：30～下午4：30
+書展地點：<activity_loc_LxKyMA7eXL>圖資館</activity_loc_LxKyMA7eXL>與<activity_loc_LxKyMA7eXL>行政大樓迴廊</activity_loc_LxKyMA7eXL>
+
+Just book read就是書展，好康活動還有更多，敬請期待！

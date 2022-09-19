@@ -1,0 +1,9 @@
+﻿Youth Arts Salon:
+<activity_name_LxKyMA7eXL>《Serendipity─臺北市立大安高工攝影社攝影展》</activity_name_LxKyMA7eXL>
+
+攝影將剎那化作永恆，以四千分之一秒的瞬間，用快門~將每個感動、每個觸動、每個心動、一切你所依戀的，凍在菲林上，結在回憶裡。生活中那短暫的美好，稍縱即逝，將他留下吧!，
+
+【展覽資訊】
+展覽時間：<activity_date_start_LxKyMA7eXL>105/3/2</activity_date_start_LxKyMA7eXL>(三)~<activity_date_end_LxKyMA7eXL>105/3/13</activity_date_end_LxKyMA7eXL>(日)9:00-20:00 
+展覽地點：<activity_loc_LxKyMA7eXL>本處5F青少年藝文沙龍</activity_loc_LxKyMA7eXL>(<activity_address_LxKyMA7eXL>臺北市仁愛路一段17號</activity_address_LxKyMA7eXL>)
+開幕茶會：105/3/6(日)13:30-16:00 本處5樓流行廣場

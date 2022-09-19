@@ -1,0 +1,10 @@
+﻿『藝文展』: <activity_name_LxKyMA7eXL>國立台灣美術館的 明日之風—林之助百歲紀念展</activity_name_LxKyMA7eXL>
+
+
+展覽日期：<activity_date_start_LxKyMA7eXL> 105-01-23</activity_date_start_LxKyMA7eXL> ~ <activity_date_end_LxKyMA7eXL>105-05-15</activity_date_end_LxKyMA7eXL>
+
+2016年適逢林之助老師百歲冥誕，國立臺灣美術館為回顧老師膠彩藝術成就及緬懷其為美術教育付出心力的精彩人生，特別邀請白適銘、曾得標共同策畫<activity_name_LxKyMA7eXL>「明日之風─林之助百歲紀念展」</activity_name_LxKyMA7eXL>，歸納出「摩登世界」、「家園憶舊」、「踢踏變奏」、「美藝人生」、「下繪、手稿與創作實踐」、「書作」等六個分類子題，展出林之助自1934～2008年間作品共103件，包含膠彩畫、寫生、下繪、設計、書藝及文獻資料等，藉以呈現林之助畢生精彩豐富的創作與生命歷程，提供國人欣賞林之助老師精湛之膠彩藝術創作，更藉此表彰林之助於臺灣近代美術史上的卓越貢獻。
+
+詳細情形請看
+FB :<activity_org_LxKyMA7eXL>國立台灣美術館</activity_org_LxKyMA7eXL>
+官網:http://www.ntmofa.gov.tw/chinese/

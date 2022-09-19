@@ -1,0 +1,5 @@
+﻿<activity_name_LxKyMA7eXL>第九屆中國數控機床展覽會</activity_name_LxKyMA7eXL>（CCMT2016）將於<activity_date_start_LxKyMA7eXL>2016年4月11</activity_date_start_LxKyMA7eXL>-<activity_date_end_LxKyMA7eXL>15日</activity_date_end_LxKyMA7eXL>在<activity_loc_LxKyMA7eXL>上海新國際博覽中心</activity_loc_LxKyMA7eXL>隆重舉辦。
+
+科智搭載客戶高性能設備，基於雲端、工業數據、CPS、工業物聯等單元技術，利用數據化、即時化、行動化、智能化與資產化，實現了數控機台的智慧化控制。
+
+科智並研發以數據化管理、行動化監控、即時化補償、智能化加工，建立設備的動態健康保修、回饋式的製程管控、自動化的排程系統以及決策戰情分析等應用，以網路銷售平臺、租賃服務、雲端工廠等模式，協助客戶採取新世代的智慧化工廠管理，將資產留在內部，提早協助客戶面對新的市場變化。

@@ -1,0 +1,34 @@
+﻿[同是設計人]
+各個學校的設計菁英在經歷了四年的歷練，
+是時候該在畢業展中嶄露頭角了。
+在這重要的時刻來見證我們的蛻變吧!
+絕對不會讓你們失望的 
+ -
+分享設計好朋友  國立新竹大學
+-
+<activity_name_LxKyMA7eXL>國立新竹教育大學 105級藝術與設計學系 設計組 畢業展</activity_name_LxKyMA7eXL>
+/點點/
+/Little by little/
+點點累積，點點前進，
+欲以細膩的工藝之美，
+雜糅深厚的人文底蘊，
+賦予材質的全新面貌。
+點點光芒，點點閃爍。
+Little by little we proceed,
+hammering The materials with delicate crafts,
+rubbing Them using a love for our culture, 
+polishing Them into brand new looks;
+and Little by little they shine. 
+///展覽時間與地點資訊///
+-<activity_name_LxKyMA7eXL>新一代設計展-</activity_name_LxKyMA7eXL>
+日期：<activity_date_start_LxKyMA7eXL>105/ 5/13</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>5/16</activity_date_end_LxKyMA7eXL>
+開放時間： 10:00~18:00
+展場：<activity_loc_LxKyMA7eXL>台北世貿一館（C15攤位）</activity_loc_LxKyMA7eXL>
+-校內展-
+日期 :<activity_date_start_LxKyMA7eXL> 105/5/30</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>6/24</activity_date_end_LxKyMA7eXL>
+開放時間：周一至週五 10:00~17:00
+展場 : <activity_loc_LxKyMA7eXL>竹師藝術空間一、二館</activity_loc_LxKyMA7eXL>
+地址：<activity_address_LxKyMA7eXL>新竹市東區南大路521號 （藝術與設計學系系館）</activity_address_LxKyMA7eXL>
+
+///粉絲專頁///
+https://www.facebook.com/littlebylittle105/?fref=ts

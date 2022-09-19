@@ -1,0 +1,9 @@
+﻿展覽資訊
+
+<activity_name_LxKyMA7eXL>【中部水彩畫會會員聯展】</activity_name_LxKyMA7eXL>
+
+展出日期：<activity_date_start_LxKyMA7eXL>2/23</activity_date_start_LxKyMA7eXL>（二）～<activity_date_end_LxKyMA7eXL>3/13</activity_date_end_LxKyMA7eXL>（日）
+展出地點：<activity_loc_LxKyMA7eXL>縣立美術館</activity_loc_LxKyMA7eXL>三樓
+
+中部水彩畫會，由畫壇前輩楊啟東，於民國66年發起組成，已有三十多年歷史。時空轉換，會員略有變動，但入會機制嚴格，成員皆為中部水彩畫界的精英。除資深優秀畫家外，更有多位榮獲全國性水彩類首獎或第一名者。會員均以水彩為藝術創作媒介，每年在台中市及各地展出，是中部地區資深優秀的藝術團體。
+目前由林俊寅老師擔任會長，會員有施純孝、黃義永、林淑銀、何煇澤、巫秋基、蔡維祥、張琹中、黃騰萱、孫澤清、張明祺、吳文寬、詹德修、塗樹根、簡俊淦、陳威杰等，會員們傳承先進畫家的經驗，各自開發獨特的藝術風格，每次展出均深獲好評。

@@ -1,0 +1,9 @@
+﻿展覽資訊
+<activity_name_LxKyMA7eXL>
+【墨視人生～楊筱筠彩墨創作個展】</activity_name_LxKyMA7eXL>
+
+展出日期：<activity_date_start_LxKyMA7eXL>2/23</activity_date_start_LxKyMA7eXL>（二）～<activity_date_end_LxKyMA7eXL>3/13</activity_date_end_LxKyMA7eXL>（日）
+展出地點：<activity_loc_LxKyMA7eXL>縣立美術館五樓展示室B</activity_loc_LxKyMA7eXL>、<activity_loc_LxKyMA7eXL>城市藝廊</activity_loc_LxKyMA7eXL>
+
+以折衷中、西的方式來表現繪畫的現代感，呈現水墨繪畫的新生命、新語彙。以傳統為底，現代為用的理念，再以「現代水墨」的技法，將日常生活中熟悉的事物表現於作品中，以傳達出人生的經歷及自我的期許。
+在創作展中，以動物、植物、節氣、天氣及大自然的變化來詮釋人生的境遇、隱喻人生諸般境況與哲理，主題多元、物種各異，以寫實和寫意來表現中國水墨的傳統技法，再融合多種繪畫元素表現作品的內醞與質感；創作內容是心境的轉化與宣洩，和對生命的真誠與尊重。

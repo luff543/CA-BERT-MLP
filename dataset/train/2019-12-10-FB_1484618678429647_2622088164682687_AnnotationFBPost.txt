@@ -1,0 +1,4 @@
+﻿<activity_name_LxKyMA7eXL>2020台灣田宮四驅車   世界盃挑戰賽</activity_name_LxKyMA7eXL>（第二場）
+                       台灣選手權大賽 比賽預告篇：⋯⋯ 比賽時間-<activity_date_start_LxKyMA7eXL>109年2月9日</activity_date_start_LxKyMA7eXL>（日）
+ <activity_date_duration_LxKyMA7eXL>08：00~18：00</activity_date_duration_LxKyMA7eXL> 比賽地點：<activity_loc_LxKyMA7eXL>國立臺灣科學教育館</activity_loc_LxKyMA7eXL>
+ （<activity_address_LxKyMA7eXL>台北市士林區士商路189號</activity_address_LxKyMA7eXL>） #第一場比賽成績明天公佈# 

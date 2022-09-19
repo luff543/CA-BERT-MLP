@@ -1,0 +1,15 @@
+﻿<activity_name_LxKyMA7eXL>１０５年全國中等學校撞球聯賽 - 北區選拔</activity_name_LxKyMA7eXL>
+選拔日期：<activity_date_start_LxKyMA7eXL>１０５年４月１２</activity_date_start_LxKyMA7eXL>、１３、１４、<activity_date_end_LxKyMA7eXL>１５</activity_date_end_LxKyMA7eXL>日。
+選拔時間：每日早上九點半檢錄，十點開賽。
+比賽地點：<activity_loc_LxKyMA7eXL>集賢撞球運動館</activity_loc_LxKyMA7eXL> <activity_address_LxKyMA7eXL>新北市蘆洲區集賢路233號2樓</activity_address_LxKyMA7eXL>
+報名費：個人賽每人三佰元，團體賽每人三佰元(費用於比賽現場繳交)
+比賽組別：
+高中男子組：九號球個人賽、九號球團體賽、八號球個人賽
+高中女子組：九號球個人賽、九號球團體賽 
+國中男子組：九號球個人賽、九號球團體賽
+國中女子組：九號球個人賽、九號球團體賽
+注意事項：九號球選手可報名參加九號球各項比賽，
+八號球選手不可與九號球選手重複。
+報名方式：攜帶學生證至準將撞球運動館報名。
+報名地點：準將撞球運動館 - 桃園市中壢區中山路１００號４樓。
+報名日期：即日起至１０５年４月３日截止。

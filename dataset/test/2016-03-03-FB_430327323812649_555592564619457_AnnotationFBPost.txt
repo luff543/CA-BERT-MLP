@@ -1,0 +1,10 @@
+﻿<activity_name_LxKyMA7eXL>台北自行車展</activity_name_LxKyMA7eXL>熱鬧登場了！！
+NEXO世貿、南港都有攤位，
+歡迎來找我們玩！
+南港攤位現場更有最新的700x24c讓大家現場體驗！
+等你們唷！！
+--
+<activity_name_LxKyMA7eXL>TPC台北自行車展覽</activity_name_LxKyMA7eXL> - <activity_date_start_LxKyMA7eXL>3/2</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>3/5</activity_date_end_LxKyMA7eXL>。
+#<activity_loc_LxKyMA7eXL>世貿1館</activity_loc_LxKyMA7eXL>2F攤位號碼H0925
+#<activity_loc_LxKyMA7eXL>南港館</activity_loc_LxKyMA7eXL>北側攤位號碼T0013可現場試騎
+＃小編報告完畢

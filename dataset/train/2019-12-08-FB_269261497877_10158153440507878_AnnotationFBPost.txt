@@ -1,0 +1,5 @@
+﻿［學生會活動部|🎄<activity_name_LxKyMA7eXL>聖誕市集</activity_name_LxKyMA7eXL>🎄］ 叮叮噹叮叮噹鈴聲多響亮～一年一度的聖誕市集又要到來啦，大家有沒有很興奮呢🥳 ❄️聖誕市集資訊⋯⋯
+ 日期：<activity_date_start_LxKyMA7eXL>12/9</activity_date_start_LxKyMA7eXL>-<activity_date_end_LxKyMA7eXL>11</activity_date_end_LxKyMA7eXL>
+ 時間：<activity_date_duration_LxKyMA7eXL>10:00-17:30</activity_date_duration_LxKyMA7eXL>
+ 地點：校徽廣場+小七川+後棟川 這次的聖誕市集還會和攝影展的最後一波一起合作，大家在逛街之餘也可以到後棟大廳看看同學們的攝影作品並拿明信片喔～真的很漂亮☺️ 這次市集我們找了很多不同類型的店家，希望大家逛得開心也吃得開心，記得將錢包塞滿滿，準備好見到空空的它哦(˶‾᷄ ⁻̫ ‾᷅˵) (海報日期不小心寫錯了😳是12/9-11而已哦）
+ #<activity_loc_LxKyMA7eXL>臺北醫學大學</activity_loc_LxKyMA7eXL> #聖誕市集 

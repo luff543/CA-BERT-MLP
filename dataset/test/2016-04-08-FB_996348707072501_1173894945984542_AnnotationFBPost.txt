@@ -1,0 +1,9 @@
+﻿白日夢想家 官方預告
+-
+就是明天啦
+<activity_name_LxKyMA7eXL>【冰山意識】南臺科大105級資訊傳播系第十二屆畢業展</activity_name_LxKyMA7eXL>
+-
+展覽資訊
+<activity_loc_LxKyMA7eXL>全美戲院</activity_loc_LxKyMA7eXL>
+<activity_date_start_LxKyMA7eXL>4/8</activity_date_start_LxKyMA7eXL>(五)14:00-14:30
+<activity_date_end_LxKyMA7eXL>4/10</activity_date_end_LxKyMA7eXL>(日)15:50-16:25(+QA)

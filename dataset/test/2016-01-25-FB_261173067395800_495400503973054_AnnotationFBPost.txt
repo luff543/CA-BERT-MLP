@@ -1,0 +1,7 @@
+﻿<activity_name_LxKyMA7eXL>【2016 台北年貨大街】復古懷舊趴 熱鬧開跑！</activity_name_LxKyMA7eXL>
+
+今年台北年貨大街以「懷舊年味‧心商道」為主題，規劃懷舊復古的「台北柑仔店」特展、復古年藝表演、年菜廚房及「大稻埕尋寶趣」等精彩活動，邀請大家重溫50、60 年代的舊日時光！
+
+時間：<activity_date_start_LxKyMA7eXL>2016/1/22</activity_date_start_LxKyMA7eXL>~<activity_date_end_LxKyMA7eXL>2/6</activity_date_end_LxKyMA7eXL>
+地點：<activity_loc_LxKyMA7eXL>大稻埕街區</activity_loc_LxKyMA7eXL>
+更多：<activity_loc_LxKyMA7eXL>台北年貨大街</activity_loc_LxKyMA7eXL>

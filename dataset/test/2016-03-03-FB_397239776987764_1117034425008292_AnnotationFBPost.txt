@@ -1,0 +1,13 @@
+﻿教育部為推廣校園4G創新應用，藉由舉辦<activity_name_LxKyMA7eXL>「全國校園雲端創新應用大賽」</activity_name_LxKyMA7eXL>，激發全國各級學校生師及社會人士之創意思考及實作能力，完成高創新性或高實用性之4G應用APP作品，總獎金超過185萬，歡迎報名！
+壹、  主辦單位：教育部
+貳、  執行單位：台北市電腦公會
+參、  參加對象：全國各級學校生師及社會人士
+肆、  報名日期：<activity_date_start_LxKyMA7eXL>105.2.1</activity_date_start_LxKyMA7eXL>(一)9:00起至<activity_date_end_LxKyMA7eXL>105.3.8</activity_date_end_LxKyMA7eXL>(二)17:00止
+伍、  競賽四大特色：
+一、「三大參賽主題類別」：1.校園行動應用類  2.中小學行動學習類  3.偏鄉資訊教育類
+二、「加值培訓營」：「APP技術優化培訓營」幫助入圍決賽團隊作品技術優化及精進；「創業人才培訓營」讓得獎團隊了解創業可能遭遇之問題及解決方法。
+三、「APP上架補助」：除了競賽獎勵，每個得獎作品可申請APP上架補助1000元。
+四、「總獎金超過185萬」：得獎團隊除了獎狀之外，第1類第一名5萬元獎金，第2、3類第一名都各有高達8萬元獎金。
+競賽網站：http://4gapps.tca.org.tw/
+競賽辦法下載處：http://4gapps.tca.org.tw/explanation/explanationdownload
+歡迎加入粉絲專頁：http://www.facebook.com/4gapps(臉書搜尋：全國校園雲端創新應用大賽)

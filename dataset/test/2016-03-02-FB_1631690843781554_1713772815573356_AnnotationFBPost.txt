@@ -1,0 +1,18 @@
+﻿距離校內展開幕還剩6Days
+
+<activity_name_LxKyMA7eXL>玄奘大學/ 101級設計學院畢業展 / 蜂夥</activity_name_LxKyMA7eXL>
+
+3/7前哨展要在玄奘大學
+
+<activity_name_LxKyMA7eXL>視傳系校內展 _ 開幕典禮</activity_name_LxKyMA7eXL>
+| 日期  <activity_date_start_LxKyMA7eXL>3/8</activity_date_start_LxKyMA7eXL>
+| 時間  11：00
+| 地點  <activity_loc_LxKyMA7eXL>玄奘大學</activity_loc_LxKyMA7eXL> 圖資一樓  慈雲廳
+
+<activity_name_LxKyMA7eXL>視傳系校內展 _ 活動資訊</activity_name_LxKyMA7eXL>
+| 展出日期  <activity_date_start_LxKyMA7eXL>3/7</activity_date_start_LxKyMA7eXL> - <activity_date_end_LxKyMA7eXL>3/11</activity_date_end_LxKyMA7eXL>
+| 展出時間  9：00 - 21：30
+| 展出地點  <activity_loc_LxKyMA7eXL>玄奘大學</activity_loc_LxKyMA7eXL> 圖資大樓一樓（圖書館前）
+| 玄奘地址  <activity_address_LxKyMA7eXL>新竹市香山區玄奘路48號</activity_address_LxKyMA7eXL>
+
+歡迎大家一起來看展

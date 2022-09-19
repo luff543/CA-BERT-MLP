@@ -1,0 +1,9 @@
+﻿#<activity_name_LxKyMA7eXL>瑞典設計展</activity_name_LxKyMA7eXL> 來了！<activity_date_start_LxKyMA7eXL>3/12</activity_date_start_LxKyMA7eXL>免費參觀，在<activity_loc_LxKyMA7eXL>松山文創園區1號倉庫</activity_loc_LxKyMA7eXL>（<activity_address_LxKyMA7eXL>臺北市光復南路133號</activity_address_LxKyMA7eXL>）
+
+<activity_date_start_LxKyMA7eXL>2016/3/12</activity_date_start_LxKyMA7eXL>開展的<activity_name_LxKyMA7eXL>「Design Solution--瑞典設計展」</activity_name_LxKyMA7eXL>將邀請您體驗第一線的瑞典設計精神，多場國際設計沙龍與圓桌工作坊讓您更深入一探瑞典設計精髓，歡迎大家分享給其他喜愛設計的朋友！
+
+ <activity_name_LxKyMA7eXL>2016臺北設計之都「Design Solution 瑞典設計展」</activity_name_LxKyMA7eXL>
+展覽時間：<activity_date_start_LxKyMA7eXL>3/12</activity_date_start_LxKyMA7eXL>（六）至<activity_date_end_LxKyMA7eXL>4/10</activity_date_end_LxKyMA7eXL>（日）每日10:00AM～18:00PM （免費參觀）
+展覽地點：<activity_loc_LxKyMA7eXL>松山文創園區</activity_loc_LxKyMA7eXL>
+
+World Design Capital Taipei 2016 臺北世界設計之都
