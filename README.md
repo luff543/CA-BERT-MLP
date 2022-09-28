@@ -30,7 +30,7 @@ Go to **[here](https://www.anaconda.com/products/distribution)** and download **
 
   ``` 
   python train.py
-
+  
 * Train **Multi-task word-level event field extraction model**
 
-  Usage see **[here](https://github.com/luff543/BERT-event-information-extractor)** 
+  Usage see **[here](https://github.com/luff543/BERT-event-information-extractor)**
